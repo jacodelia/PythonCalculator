@@ -1,0 +1,26 @@
+HELP.md
+__pycache__/
+*.pyc
+
+### Setup files ###
+FLASK_API.egg-info/
+
+### VS Code ###
+.vscode/
+
+### db files ###
+*.db
+.db
+
+### test report files ###
+.build/
+env/
+venv/
+instance/
+.pytest_cache/
+
+### Other files ###
+*.log
+*.lock
+*.bin
+*.probe
